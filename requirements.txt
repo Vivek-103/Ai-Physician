@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+pyttsx3
+pydub
+google-cloud-vision
+Pillow
+Gemini SDK
