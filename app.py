@@ -4,8 +4,8 @@ from PIL import Image
 import google.generativeai as genai 
 
 
-genai.configure(api_key="AIzaSyD0ESvv1eA2ytk7b5myzF4sJNENvh0_mV8")  
-model = genai.GenerativeModel("gemini-1.5-flash")  
+genai.configure(api_key="******************")  
+model = genai.GenerativeModel("*************")  
 
 st.title("AI Physician - Voice-Based Medical Assistant")
 
