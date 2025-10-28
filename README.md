@@ -2,6 +2,8 @@
 
 ## This is an AI-powered agentic workflow that simulates a virtual physician, capable of interacting with users via voice. Users can describe their medical problem verbally, upload images of physiological defects (like skin rashes), and receive spoken curative and preventive recommendations from the agent.
 
+![Quack Sticker by obinsun](https://github.com/user-attachments/assets/0bd3bbd3-7e46-4c73-a39f-feee471577ee)
+
 🔍 Features
 🎤 Voice-based interaction – Speak to the AI agent to describe your problem.
 
